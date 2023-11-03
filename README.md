@@ -1,2 +1,7 @@
 # emos-backend
-# emos-backend
+The purpose in developing EMOS application was to provide a digital solution that addresses the issue of having to deal with multiple databases, either physical or logical, in the process of managing employees within an organization . EMOS defines a unique MySQL database that stores all data related to employees and makes sorting , querying ,insertion and deletion to the database an easy task due to the form data is organized and related within the MySQL EMOS relational schema. The application will also give the user the ability to easily add and remove departments, jobs and employees within the organization. In addition, the client can assign employees to a supervisor or not supervisor role and manage their work schedules. image
+
+Employee management system Capstone Project
+
+Methodology Use of IEEE Standard for Information Technology 2009 Edition to complete the Software Design Specification document.
+Using Relational Database Management System MySQL to easily manage organization information regarding employees. Use of Spring Boot Framework to build a standalone enterprise-level EMOS application and connect to EMOS database. Use of Hibernate Object-Relational Mapping (ORM) framework for Java and its java standard Java Persistence API(JPA) to simplify the process of mapping Java objects to relational database tables and vice versa. Use of MySQL workbench Use React JS library to build user interface in JavaScript. Use of Bootstrap framework as React dependency to build responsive UIs. Use of Spring Security to provide comprehensive authentication , authorization and protection to EMOS application. Use of Spring Security built-in support for JSON Web Token JWT-based authentication and authorization.
